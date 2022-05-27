@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734116819541",
+    "project_id": "fir-alo",
+    "storage_bucket": "fir-alo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734116819541:android:8031f714d542e2dfde9adc",
+        "android_client_info": {
+          "package_name": "com.example.aloo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734116819541-9cim9265b667qilmk7mavbarlp5loodp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFeMPILnTTS-jvLtcbdkJUkO9Y98h0_8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734116819541-9cim9265b667qilmk7mavbarlp5loodp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

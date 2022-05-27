@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Trang Chủ"
+        android:icon="@drawable/ic_aloo"
+        android:id="@+id/mnuHome"
+        />
+    <item android:title="Ngẫu Nhiên"
+        android:icon="@drawable/ic_random"
+
+        android:id="@+id/mnuRamdom"/>
+    <item android:title="Chat"
+        android:icon="@drawable/ic_chat"
+        android:id="@+id/mnuChat"/>
+    <item android:title="Cài Đặt"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:id="@+id/mnuSetting"/>
+</menu>

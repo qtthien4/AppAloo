@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/bg_gray_conner_10.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/bg_red_conner_10.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/bg_white_conner_16.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/border_red.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/border_while.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/bottom_radius_transparent.xml" value="0.2703125" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/chat_recieve.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/chat_sender.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/dg_radius.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/ic_aloo.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/radius_buttom.xml" value="0.2703125" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/selectable_text_bg_color_checked_state.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/selectable_text_color_checked_state.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/selected_bg_text_item.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/text_border.xml" value="0.2703125" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/textview_red_conner_25.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/textview_white_conner_25.xml" value="0.22179487179487178" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/drawable/transparent_buttom.xml" value="0.26666666666666666" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_add_call.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_add_food.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_call.xml" value="0.21603260869565216" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_click_notifitcation.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_code.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_hien_ma.xml" value="0.264" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_login.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_monan.xml" value="0.25" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_nhap_ma.xml" value="0.197008547008547" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_random.xml" value="0.25416666666666665" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_xungho.xml" value="0.25" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/activity_xungho2.xml" value="0.25" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/bottom_sheet_dialog_home.xml" value="0.2" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/chat_reciever.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/chat_sender.xml" value="0.536" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/dialog_addcall.xml" value="0.22509057971014493" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/dialog_addfood.xml" value="0.22509057971014493" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/dialog_item.xml" value="0.536" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/dialog_item2.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/dialog_random.xml" value="0.264" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/dialog_select_type_food.xml" value="0.264" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/fragment_chat.xml" value="0.2" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/fragment_food.xml" value="0.12916666666666668" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/fragment_ramdom.xml" value="0.264" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/fragment_setting.xml" value="0.2" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/layout_dialog_addfood.xml" value="0.2" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/layout_dialog_call.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/list_view.xml" value="0.4" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/list_view_call.xml" value="0.22010869565217392" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/list_view_random.xml" value="0.20854700854700856" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/row_value.xml" value="0.25416666666666665" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/layout/te.xml" value="0.25416666666666665" />
+        <entry key="..\:/HUFLIT/Nam 3 HK1/android/Aloo/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
